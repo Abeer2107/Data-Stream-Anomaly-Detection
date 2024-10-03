@@ -1,7 +1,4 @@
 # Data Stream Anomaly Detection
-A Task to detect anomalies in a generated data stream using moving average approach.
-
-## Introduction
 The process of identifying unusual patterns or behaviours within a data set. These irregularities in the data are considered anomalies or outliers; and could indicate an inconsistency or a malfunction in the system being monitored.
 
 ### Methods used for anomaly detection includes:
